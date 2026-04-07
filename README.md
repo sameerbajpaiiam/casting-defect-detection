@@ -15,8 +15,7 @@ Built to identify defective vs non-defective casting products using a real-life 
 - Python, TensorFlow/Keras, OpenCV, Scikit-learn, Matplotlib, Seaborn
 - Data pipeline: `tf.keras.utils.image_dataset_from_directory` + Rescaling(1./255)
 
-## Notebooks & Scripts
+## Notebooks
 - [Untitled0.ipynb](https://github.com/sameerbajpaiiam/casting-defect-detection/blob/main/Untitled0.ipynb)
-- [untitled0.py](https://github.com/sameerbajpaiiam/casting-defect-detection/blob/main/untitled0.py) (exported script)
 
 **Repository**: [GitHub](https://github.com/sameerbajpaiiam/casting-defect-detection)
